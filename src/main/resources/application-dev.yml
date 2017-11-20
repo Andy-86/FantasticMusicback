@@ -1,0 +1,5 @@
+server:
+  port: 8086
+mybatis:
+  type-aliases-package: com.example.demo.model
+  config-location: classpath:mybatis.xml
